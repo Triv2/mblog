@@ -65,6 +65,10 @@
     --ring: 240 4.9% 83.9%;
   }
 }
+
+html,body,main{
+  height:100%;
+}
  
 @layer base {
   * {
